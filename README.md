@@ -1,1 +1,1 @@
-# This is readme, hello Git!
+# Nie ogarniam co sie dzieje
